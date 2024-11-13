@@ -1,7 +1,7 @@
 
 # Path Finder - Metro Rail Route Finder
 
-This project is a Metro Rail Route Finder written in C++ for a semester 3 project. It helps users find the shortest and most economical paths for their metro journeys.
+This project is a Metro Rail Route Finder written in C++. It helps users find the shortest and most economical paths for their metro journeys.
 
 ## Prerequisites
 
