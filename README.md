@@ -70,5 +70,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 Special thanks to the authors of Graphviz.
 
-##Note
+## Note
 this program has source and destination places hardcoded in the source code for simplicity
