@@ -28,10 +28,10 @@ make
 2. Sign up
 3. Exit
 Enter your choice (1-3): 1
-Enter your username: nilay
+Enter your username: harsh
 Enter your password: 123
 Login successful!
-Welcome nilay!
+Welcome harsh!
 Press 0 to logout at any point
 Welcome to the metro path finder
 
@@ -69,3 +69,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 Special thanks to the authors of Graphviz.
+
+##Note
+this program has source and destination places hardcoded in the source code for simplicity
